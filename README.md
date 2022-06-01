@@ -1,0 +1,2 @@
+# Hajime
+The Beginning
