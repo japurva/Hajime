@@ -1,0 +1,69 @@
+# Basics
+*.py[cod]
+*.pyc
+__pycache__
+*/__pycache__
+.DS_Store
+
+#venv
+.idea/
+.vscode/
+venv/
+env/
+
+
+# vagrant
+*.vagrant/
+
+# Logs
+*.log
+pip-log.txt
+
+# Unit test / coverage reports
+.coverage
+.tox
+nosetests.xml
+
+# Translations
+*.mo
+*.pot
+
+# Pycharm
+.idea
+
+# Graphs
+*.dot
+
+# Large files
+*.zip
+*.pdf
+*.rar
+*.7z
+
+# Vim
+
+*~
+*.swp
+*.swo
+*.pycharm*
+
+# npm
+node_modules/
+
+
+# Campass
+.sass-cache
+
+# Django
+app/staticfiles/*
+app/local_media/*
+app/src/*
+
+
+coverage_html
+
+.vscode/
+
+
+
+/docker-image.md5
